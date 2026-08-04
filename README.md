@@ -7,7 +7,7 @@ to get fonts go to google fonts and find and download it and use in font-family
 goto remix icon to get icons find and goto github copy it paste cdn link tag in head of html
 <img width="832" height="436" alt="WhatsApp Image 2026-08-04 at 5 22 51 PM" src="https://github.com/user-attachments/assets/abdfde70-5065-4ce6-99f0-309a25c88888" />
 
-<img width="832" height="436" alt="WhatsApp Image 2026-08-04 at 5 22 51 PM" src="https://github.com/user-attachments/assets/387ba826-55dd-48a3-8ba6-f23155301ca3" />
+
 
 <img width="472" height="232" alt="WhatsApp Image 2026-08-04 at 5 38 58 PM" src="https://github.com/user-attachments/assets/1222b63e-6b88-4895-865e-274f2c1c69ad" />
 
